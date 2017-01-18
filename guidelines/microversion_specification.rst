@@ -186,5 +186,5 @@ An example HTTP Header response:
 
 An example errors body response:
 
-.. literalinclude:: microversion-errors-example.json
+.. literalinclude:: ./microversion-errors-example.json
     :language: json
